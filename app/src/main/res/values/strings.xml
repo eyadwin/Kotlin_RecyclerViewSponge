@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin_RecyclerView_Sponge</string>
+    <string-array name="characters">
+        <item>Sponge bob</item>
+        <item>Patrick</item>
+        <item>Sandy</item>
+        <item>Squidward</item>
+    </string-array>
+</resources>
